@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section name="Workbench">
+	<section name="org.eclipse.ui.texteditor.FindReplaceDialog">
+		<item key="selection" value="balance"/>
+		<item key="wrap" value="true"/>
+		<item key="casesensitive" value="false"/>
+		<item key="wholeword" value="false"/>
+		<item key="incremental" value="false"/>
+		<item key="isRegEx" value="false"/>
+		<list key="findhistory">
+			<item value="balance"/>
+			<item value="ba"/>
+			<item value="hackhub"/>
+			<item value="keyword"/>
+			<item value="/id"/>
+			<item value="eyJhbGciOiJSUzI1NiIsImtpZCI6ImRiMDJhYjMwZTBiNzViOGVjZDRmODE2YmI5ZTE5NzhmNjI4NDk4OTQiLCJ0eXAiOiJKV1QifQ.eyJpc3MiOiJhY2NvdW50cy5nb29nbGUuY29tIiwiYXpwIjoiMTA2MjQzNjMzNTc3NC0xY2g4bWZ2ZWRrYmdndThndHByNzYxMDZ0MGs2M2FydS5hcHBzLmdvb2dsZXVzZXJjb250ZW50LmNvbSIsImF1ZCI6IjEwNjI0MzYzMzU3NzQtMWNoOG1mdmVka2JnZ3U4Z3Rwcjc2MTA2dDBrNjNhcnUuYXBwcy5nb29nbGV1c2VyY29udGVudC5jb20iLCJzdWIiOiIxMDczMDc5NTIzMzM0NjIxOTAxNjUiLCJlbWFpbCI6ImhhY2todWJzdXBlckBnbWFpbC5jb20iLCJlbWFpbF92ZXJpZmllZCI6dHJ1ZSwiYXRfaGFzaCI6IjdvS2dJUXkwQXdlOHBrRkh1ZEZXaHciLCJuYW1lIjoiaGFjayBodWIiLCJwaWN0dXJlIjoiaHR0cHM6Ly9saDQuZ29vZ2xldXNlcmNvbnRlbnQuY29tLy1LRmlYMmN5Nk9jby9BQUFBQUFBQUFBSS9BQUFBQUFBQUFBQS9BQ0hpM3JmbmhZQkFQbHBPWUxOaFRqTHgwYmFWQTUxM2FnL3M5Ni1jL3Bob3RvLmpwZyIsImdpdmVuX25hbWUiOiJoYWNrIiwiZmFtaWx5X25hbWUiOiJodWIiLCJsb2NhbGUiOiJlbiIsImlhdCI6MTU3NDI5ODc2OCwiZXhwIjoxNTc0MzAyMzY4LCJqdGkiOiIxNjQxYTI0M2IwMWI0YTI3MGI1NzlmMjlkNWZkNmQxOTMzYjdhMzc0In0.ljajCEPpAaZQJ5Oyxc5w8mcbXYAGURk-02VX5JF2lM5HzSgHsv7tIlfiZubQS59W0bZg170x1OQuDwjNn-LW5xUie4XMoXHyTkh_OM27v-FuDPg3J_IOTfhoA1FkM7NJr1YiDPbOdZ-fA4s0gjDiUvlkp1V7Qbq314DW6LKrzuiTvUVGCeECMbJKKQUvLdEQYO1RT9ZlVruJLt2mkJiDaoiP576sJD_2GFalEMQ_Sl92V-OreUXpmoOi3e_40s1WJCZ5OiSMnPtq3Xh3qeIIYC9Crtsn8p18dfKPGf1_AtUKy7ew1R7gum1VI1YFVVf7aWy48gmC4sfrtyddVH77KQ"/>
+			<item value="print"/>
+			<item value="patch"/>
+			<item value="ALLOWED_EXTENSIONS"/>
+			<item value="upload"/>
+			<item value="attachmenturl2"/>
+			<item value="upload_image_file"/>
+			<item value="add"/>
+			<item value="one"/>
+			<item value="once"/>
+		</list>
+		<list key="replacehistory">
+		</list>
+	</section>
+	<section name="org.eclipse.ui.texteditor.FindReplaceDialog_dialogBounds">
+		<item key="DIALOG_X_ORIGIN" value="779"/>
+		<item key="DIALOG_Y_ORIGIN" value="173"/>
+		<item key="DIALOG_WIDTH" value="385"/>
+		<item key="DIALOG_HEIGHT" value="523"/>
+		<item key="DIALOG_FONT_NAME" value="1|Segoe UI|9.0|0|WINDOWS|1|-18|0|0|0|400|0|0|0|1|0|0|0|0|Segoe UI"/>
+	</section>
+</section>
